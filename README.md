@@ -101,7 +101,9 @@ Aşağıdaki tüm komutlar, başarıyla çalıştığında `.txt` dosyası olara
 
 Yeni API eklemek çok kolay:
 
+'''
 APIS["yenikomut"] = "https://api.example.com/yeni.php?param={}"
+'''
 
 Bu komut artık /yenikomut deger olarak çalışır.
 
